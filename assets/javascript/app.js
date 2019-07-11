@@ -5,7 +5,7 @@
         var queryURL = "https://api.giphy.com/v1/gifs/search?api_key=4Ln5YO8c6ObLoVi1aWAKo5ApNAzdDt43&q=marvel&limit=10&offset=0&rating=G&lang=en";
     }
 
-    var topics = ["Marvel", "Pixar", "Video Games"];
+    var topics = ["Marvel", "Pixar", "DC"];
     var marvel = "https://api.giphy.com/v1/gifs/search?api_key=4Ln5YO8c6ObLoVi1aWAKo5ApNAzdDt43&q=marvel&limit=10&offset=0&rating=G&lang=en";
 
     function displayGif() {

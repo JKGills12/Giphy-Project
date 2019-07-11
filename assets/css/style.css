@@ -1,0 +1,19 @@
+button,
+div,
+form,
+input {
+    margin: 10px;
+}
+
+button {
+    background-color: #008CBA;
+    color: #fff;
+}
+
+input {
+    border-radius: 12px;
+}
+
+input:hover {
+    background-color: cadetblue;
+}
